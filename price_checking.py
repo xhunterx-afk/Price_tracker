@@ -19,7 +19,7 @@ shop_type = input("please choose in between ebay or amazon: ")
 #I added sender mail so if people want to make a site with people I mean me)
 
 user_email = input("please Enter your E-mail: ")
-test_mail = "*********@gmail.com"
+test_mail = "*********@gmail.com" # This is the send email
 password = input("Enter a password: ")
 
 # getting the price/image/name of product and exctracting them
