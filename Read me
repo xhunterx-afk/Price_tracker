@@ -1,3 +1,4 @@
 1st Note: This code wont work Until you change the sender mail to a working mail the reason I added a sender mail is if people want to make of this code a Price tracking site
 (With people I mean me)
 2nd Note If the code didnt work today its becuase amazon or ebay have vhanged their code and dont wory I will change it in the same day or if I didnt its a challenge for you good luck:)
+3rd Note: please change the input where you have to eneter your user agnet to your user agent and before your user agent put "User-Agent":"your_user_agent"
