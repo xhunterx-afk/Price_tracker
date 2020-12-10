@@ -8,9 +8,10 @@ from email.message import EmailMessage
 old_price = []
 # Giving the user inputs to enter
 Url = input("Enter a url: ")
-user_agent = input("Enter your uer agent\n"
+user_agent = "Enter your uer agent\n"
                    "To get your user info google the following:\n"
-                   "- My user agent")
+                   "- My user agent"
+                   "(dont forget to Enter first'User-Agent' and double points after it then comes your user_agent))"
 # letting the user choose the type of shop wether amazon or ebay
 shop_type = input("please choose in between ebay or amazon: ")
 
